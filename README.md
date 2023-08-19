@@ -10,6 +10,7 @@
     <img
         src="https://img.shields.io/github/repo-size/SeenKid/shavit-line"
     />
+        <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSeenKid%2Fshavit-line"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSeenKid%2Fshavit-line&label=Views&labelColor=%23ff8a65&countColor=%23f47373" /></a>
   </p>
 </div>
 
