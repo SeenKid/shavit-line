@@ -1,15 +1,19 @@
 #pragma semicolon 1
 #pragma newdecls required
 
+// Mandatory imports
 #include <clientprefs>
 #include <closestpos>
 #include <sdktools>
 #include <shavit>
 
+// for random tests
 #include <sdkhooks>
 #include <sourcemod>
 #include <smjansson>
 #include <ripext>
+
+// shavit replay imports
 #include <shavit/replay-file>
 #include <shavit/replay-playback>
 #include <shavit/replay-recorder>
@@ -72,6 +76,8 @@ public void OnClientCookiesCached(int client) {
 }
 
 public void OnConfigsExecuted() {
+	// You can change this if you're using another material.
+	// Directory : /cstrike/materials/
 	sprite = PrecacheModel("sprites/laserbeam.vmt");
 }
 
