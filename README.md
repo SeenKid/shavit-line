@@ -15,8 +15,6 @@
 
 ![image](https://github.com/SeenKid/shavit-line/assets/30565751/b9f07277-c8f6-42fd-8d07-762b7d230efe)
 
-
-
 ## Requirements ##
 - Sourcemod and Metamod
 - A Counter-Strike: Source or Counter-Strike: Global Offensive server is always a requirement.
