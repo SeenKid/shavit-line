@@ -29,4 +29,3 @@
 
 ## Informations ##
 - This project was remade by SeenKid because it had a lot of bugs. The original code wasn't from SeenKid.
-- The SourceCode is not available as for now. 
