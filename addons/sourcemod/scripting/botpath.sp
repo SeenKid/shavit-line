@@ -26,7 +26,7 @@ int ticks[66];
 bool drawLines[66];
 
 public Plugin myinfo = {
-	name = "shavit-lines",
+	name = "shavit-line",
 	author = "SeenKid",
 	description = "Shows the WR route with a path on the ground. Use the command sm_line to toggle.",
 	version = "1.0.2",
@@ -52,7 +52,8 @@ public void OnPluginStart() {
 
 Action line_callback(int client, int args) {
 	drawLines[client] = !drawLines[client];
-	ReplyToCommand(client, "｢ Shavit-Lines ｣ Plugin made by SeenKid");
+	// Please, do not remove copyright message.
+	ReplyToCommand(client, "｢ Shavit-Line ｣ Plugin made by SeenKid");
 	char buffer[2];
 	buffer[0] = view_as<char>(drawLines[client]) + '0';
 	lines_settings.Set(client, buffer);
