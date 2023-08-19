@@ -18,7 +18,7 @@
 - Sourcemod and Metamod
 - A Counter-Strike: Source or Counter-Strike: Global Offensive server is always a requirement.
 - Closestpos extension
-- The shavitush bhop timer
+- [The shavitush's bhop timer](https://github.com/shavitush/bhoptimer) 
 
 
 ## Installation ##
