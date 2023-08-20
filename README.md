@@ -31,3 +31,5 @@
 
 ## Informations ##
 - This project was remade by SeenKid because it had a lot of bugs. The original code wasn't from SeenKid.
+
+### Do not hesitate to visit us and try the plugin @ public.australis-bhop.net:27115
