@@ -29,6 +29,8 @@
 ## Usage ##
 - sm_line (/line or !line)
 
+## Important notice ## 
+- This plugin is mainly used for strafe maps. It may not work for long maps since there might be too many sprites on the floor
 ## Informations ##
 - This project was remade by SeenKid because it had a lot of bugs. The original code wasn't from SeenKid.
 
