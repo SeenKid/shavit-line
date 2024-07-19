@@ -2,6 +2,7 @@
   <h1><code>Shavit-Line</code></h1>
   <p>
     <strong>Shows the WR route with a path on the ground</strong>
+    Discord Support : https://discord.gg/TMXJPwydPS
   </p>
   <p style="margin-bottom: 0.5ex;">
     <img
